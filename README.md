@@ -52,7 +52,3 @@ from data and models to APIs, infrastructure, and user interfaces.
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 </p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Sriharsha-Meduri&show_icons=true" />
-</p>
