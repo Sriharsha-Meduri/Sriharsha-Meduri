@@ -19,7 +19,7 @@ real-world, production-grade environments.
 <h2 align="left">About Me</h2>
 
 <ul>
-  <li>Machine Learning Intern at <strong>iMerit Technology Services</strong>, working on post-hoc OOD detection for semantic segmentation in autonomous driving.</li>
+  <li>Machine Learning Intern at <strong>iMerit Technology Services</strong>, working on post-hoc OOD detection for semantic segmentation.</li>
   <li>Machine Learning Research Intern at <strong>IIM Shillong</strong>, focusing on deep learning architectures for text classification and NLP.</li>
   <li>Experience building end-to-end ML systems involving data pipelines, model training, APIs, and deployment.</li>
   <li>Worked with real-world datasets such as <strong>KITTI, Fishyscapes, and nuScenes</strong>.</li>
