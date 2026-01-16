@@ -5,16 +5,25 @@
 </p>
 
 <p align="center">
-I work on building intelligent, scalable systems by combining Machine Learning,
-backend engineering, and modern web technologies.  
-My interests include deep learning, computer vision, NLP, and deploying ML models
-into real-world, production-ready applications.
+I build intelligent, scalable systems by combining Machine Learning, backend engineering,
+and modern web technologies. I’m particularly interested in deploying ML models into
+real-world, production-grade environments.
 </p>
 
-<p align="center">
-I enjoy research-driven development, hackathons, and creating end-to-end products
-from data and models to APIs, infrastructure, and user interfaces.
-</p>
+<h2 align="left">About Me</h2>
+
+<ul>
+  <li>Machine Learning Intern at <strong>iMerit Technology Services</strong>, working on post-hoc OOD detection for semantic segmentation in autonomous driving.</li>
+  <li>Machine Learning Research Intern at <strong>IIM Shillong</strong>, focusing on deep learning architectures for text classification and NLP.</li>
+  <li>Experience building end-to-end ML systems involving data pipelines, model training, APIs, and deployment.</li>
+  <li>Worked with real-world datasets such as <strong>KITTI, Fishyscapes, and nuScenes</strong>.</li>
+  <li>Strong interest in <strong>MLOps, Computer Vision, NLP, and system reliability</strong>.</li>
+  <li>Winner of a <strong>National Cybersecurity Hackathon</strong> conducted by ISEA (MeitY).</li>
+  <li>Round 3 qualifier at <strong>MumbaiHacks 2025</strong> and participant in <strong>Smart India Hackathon</strong>.</li>
+  <li>Co-Lead at <strong>GDSC Cybersecurity Chapter</strong>, organizing workshops and CTFs.</li>
+  <li>Currently pursuing <strong>B.Tech in Information Technology</strong> at Andhra University (AUCE).</li>
+  <li>I enjoy research-driven development, hackathons, and building complete products from idea to deployment.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
