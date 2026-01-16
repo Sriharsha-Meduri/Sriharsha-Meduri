@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
+<a href="https://github.com/Sriharsha-Meduri/Sriharsha-Meduri/blob/main/Resume.pdf" target="_blank">
+<img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
 I build intelligent, scalable systems by combining Machine Learning, backend engineering,
 and modern web technologies. I’m particularly interested in deploying ML models into
 real-world, production-grade environments.
@@ -22,7 +28,6 @@ real-world, production-grade environments.
   <li>Round 3 qualifier at <strong>MumbaiHacks 2025</strong> and participant in <strong>Smart India Hackathon</strong>.</li>
   <li>Co-Lead at <strong>GDSC Cybersecurity Chapter</strong>, organizing workshops and CTFs.</li>
   <li>Currently pursuing <strong>B.Tech in Information Technology</strong> at Andhra University (AUCE).</li>
-  <li>I enjoy research-driven development, hackathons, and building complete products from idea to deployment.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
