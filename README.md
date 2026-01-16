@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Sriharsha-Meduri/Sriharsha-Meduri/blob/main/Resume.pdf" target="_blank">
+<a href="https://github.com/Sriharsha-Meduri/Sriharsha-Meduri/blob/main/Resume14.pdf" target="_blank">
 <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 </p>
