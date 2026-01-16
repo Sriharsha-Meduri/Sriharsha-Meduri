@@ -1,12 +1,29 @@
 <h1 align="center">Hey there 👋 I'm Sriharsha Meduri</h1>
 
 <p align="center">
-<strong>Machine Learning Engineer • Full Stack Developer • Research Enthusiast</strong>
+<strong>Machine Learning Engineer • Full Stack Developer • Research-Oriented Problem Solver</strong>
 </p>
 
 <p align="center">
-I enjoy building intelligent systems, scalable web applications, and research-driven ML solutions that solve real-world problems.
+I build intelligent, production-ready systems by combining Machine Learning, scalable backend architectures,
+and clean frontend experiences. My interests lie in deep learning, computer vision, NLP, and deploying ML systems
+that work reliably in the real world.
 </p>
+
+<p align="center">
+I enjoy research-driven development, hackathons, and building end-to-end products — from data and models
+to APIs, infrastructure, and UI.
+</p>
+
+<hr/>
+
+<h3 align="left">🧠 What I Work With</h3>
+<ul>
+  <li>Machine Learning & Deep Learning (Vision, NLP, OOD Detection)</li>
+  <li>Full Stack Development (React, FastAPI, Django)</li>
+  <li>Cloud-native & Microservices Architecture</li>
+  <li>Research, benchmarking, and performance analysis</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,8 +53,7 @@ I enjoy building intelligent systems, scalable web applications, and research-dr
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/deviconsicon/master/icons/express/express-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" width="40" height="40"/>
 
 <!-- ML / AI -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
@@ -48,8 +64,8 @@ I enjoy building intelligent systems, scalable web applications, and research-dr
 <!-- DevOps & Tools -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlecloud.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
@@ -57,5 +73,6 @@ I enjoy building intelligent systems, scalable web applications, and research-dr
 </p>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sriharsha-Meduri&show_icons=true&locale=en" />
+<img align="center"
+src="https://github-readme-stats.vercel.app/api?username=Sriharsha-Meduri&show_icons=true&locale=en" />
 </p>
