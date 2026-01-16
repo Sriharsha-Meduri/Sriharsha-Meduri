@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Sriharsha Meduri</h1>
 
 <p align="center">
-<strong>Machine Learning Engineer | Full Stack Developer | Research Enthusiast</strong>
+<strong>MLOps Engineer | Full Stack Developer</strong>
 </p>
 
 <p align="center">
