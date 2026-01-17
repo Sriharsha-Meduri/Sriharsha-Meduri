@@ -22,7 +22,7 @@ real-world, production-grade environments.
   <li>Machine Learning Intern at <strong>iMerit Technology Services</strong>, working on post-hoc OOD detection for semantic segmentation.</li>
   <li>Machine Learning Research Intern at <strong>IIM Shillong</strong>, focusing on deep learning architectures for text classification and NLP.</li>
   <li>Web Development Intern at <strong>InsightKnox</strong>, where I developed and deployed a production-ready website.</li>
-  <li>Experience building end-to-end ML systems involving data pipelines, model training, APIs, and deployment.</li>
+  <li>Experience building <strong>end-to-end ML systems</strong> involving data pipelines, model training, APIs, and deployment.</li>
   <li>Strong interest in <strong>MLOps, Computer Vision, NLP, and system reliability</strong>.</li>
   <li>Winner of a <strong>National Cybersecurity Hackathon</strong> conducted by ISEA (MeitY).</li>
   <li>Round 3 qualifier at <strong>MumbaiHacks 2025</strong> and participant in <strong>Smart India Hackathon</strong>.</li>
