@@ -46,7 +46,7 @@ product lifecycle, from architecture and model development to deployment and ite
   <li><strong>QuickPe</strong>: Offline-first fintech payment platform with biometric authentication, hardware-backed key management, and cryptographic verification.</li>
   <li><strong>Shatabdi Mahotsav</strong>: Andhra University centenary website with interactive events, live countdowns, and dynamic registrations.</li>
   <li><strong>LiveGuard AI</strong>: Multi-modal deepfake and synthetic media forensics using CLIP-based detection and XCLIP with explainable risk scoring.</li>
-  <li><strong>PhishingLens</strong>: Production-grade phishing detection (96% accuracy) fusing OTX, GNN, and DistilBERT signals; Chrome extension used by 500+ users.</li>
+  <li><strong>PhishingLens</strong>: Production-grade phishing detection (96% accuracy) fusing OTX, GNN, and DistilBERT signals.</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
