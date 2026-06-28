@@ -14,12 +14,6 @@
 </a>
 </p>
 
-<p align="center">
-I'm an engineer who enjoys turning ambitious ideas into products people can actually use.
-I work at the intersection of AI, machine learning, and full-stack development, owning the entire
-product lifecycle, from architecture and model development to deployment and iteration.
-</p>
-
 <h2 align="left">About Me</h2>
 
 <ul>
