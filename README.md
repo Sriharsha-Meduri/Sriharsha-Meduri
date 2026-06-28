@@ -8,12 +8,6 @@
 <img src="https://komarev.com/ghpvc/?username=Sriharsha-Meduri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sriharsha-Meduri/Sriharsha-Meduri/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sriharsha-Meduri/Sriharsha-Meduri/output/github-contribution-grid-snake-light.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Sriharsha-Meduri/Sriharsha-Meduri/output/github-contribution-grid-snake.svg"/>
-</picture>
-
 <p align="center">
 <a href="https://github.com/Sriharsha-Meduri/Sriharsha-Meduri/blob/main/SriharshaMeduri_CV.pdf" target="_blank">
 <img src="https://img.shields.io/badge/View%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
