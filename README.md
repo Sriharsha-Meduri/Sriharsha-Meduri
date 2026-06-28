@@ -21,7 +21,7 @@
   <li>💳 <strong>CTO & Co-Founder</strong> at <strong>QuickPe</strong>, designing an offline-first biometric payment system with ECDSA P-256 signing and fraud detection.</li>
   <li>🎓 <strong>Founding Engineer</strong> at <strong>Oviqo</strong>, building a personalized video generation engine using fine-tuned diffusion models and TTS pipelines.</li>
   <li>🔬 <strong>Research Intern</strong> at <strong>IIM Shillong</strong>, working on deep learning architectures for text classification and NLP (BiLSTM with domain-adaptive GloVe, 85.3% accuracy at 16x lower latency).</li>
-  <li>🤖 <strong>Machine Learning Intern</strong> at <strong>iMerit Technology Services</strong>, building post-hoc OOD detection pipelines for semantic segmentation in autonomous driving (KITTI, Fishyscapes, nuScenes).</li>
+  <li>🤖 <strong>Machine Learning Intern</strong> at <strong>iMerit Technology Services</strong>, building post-hoc OOD detection pipelines for semantic segmentation in autonomous driving.</li>
   <li>🛡️ <strong>Cybersecurity Co-Lead</strong> at <strong>GDGoC AUCE</strong>, organizing workshops and CTFs for 200+ students.</li>
   <li>📚 Currently pursuing <strong>B.Tech in Information Technology</strong> at Andhra University (AUCE).</li>
 </ul>
