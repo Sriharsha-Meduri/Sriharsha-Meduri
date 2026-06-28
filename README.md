@@ -32,7 +32,6 @@
   <li><strong>Winner</strong> in the <strong>National Cybersecurity Hackathon</strong> organised by the Ministry of Electronics and IT (ISEA, MeitY).</li>
   <li><strong>Round 2 Qualifier</strong> in <strong>DP World Hackathon 2026</strong> at BITS Pilani.</li>
   <li><strong>Round 3 Qualifier</strong> in <strong>MumbaiHacks 2025</strong>, competing among top national teams.</li>
-  <li><strong>Qualified Round 1</strong> (Internal) in <strong>Smart India Hackathon (SIH) 2025</strong>.</li>
   <li><strong>Co-Lead</strong> at the <strong>GDSC Machine Learning Chapter</strong>, organizing workshops and CTFs for 200+ students.</li>
   <li><strong>Published Research</strong> on Deep Learning for Text Classification (under review).</li>
 </ul>
@@ -44,7 +43,7 @@
   <li><strong>QuickPe</strong>: Offline-first fintech payment platform with biometric authentication, hardware-backed key management, and cryptographic verification.</li>
   <li><strong>Shatabdi Mahotsav</strong>: Andhra University centenary website with interactive events, live countdowns, and dynamic registrations.</li>
   <li><strong>LiveGuard AI</strong>: Multi-modal deepfake and synthetic media forensics using CLIP-based detection and XCLIP with explainable risk scoring.</li>
-  <li><strong>PhishingLens</strong>: Production-grade phishing detection (96% accuracy) fusing OTX, GNN, and DistilBERT signals; Chrome extension used by 500+ users.</li>
+  <li><strong>PhishingLens</strong>: Production-grade phishing detection (96% accuracy) fusing OTX, GNN, and DistilBERT signals</li>
 </ul>
 
 <h3 align="left">Tech Stack:</h3>
