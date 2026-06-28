@@ -34,7 +34,6 @@ product lifecycle, from architecture and model development to deployment and ite
   <li><strong>Winner</strong> in the <strong>National Cybersecurity Hackathon</strong> organised by the Ministry of Electronics and IT (ISEA, MeitY).</li>
   <li><strong>Round 2 Qualifier</strong> in <strong>DP World Hackathon 2026</strong> at BITS Pilani.</li>
   <li><strong>Round 3 Qualifier</strong> in <strong>MumbaiHacks 2025</strong>, competing among top national teams.</li>
-  <li><strong>Qualified Round 1</strong> (Internal) in <strong>Smart India Hackathon (SIH) 2025</strong>.</li>
   <li><strong>Co-Lead</strong> at the <strong>GDSC Machine Learning Chapter</strong>, organizing workshops and CTFs for 200+ students.</li>
   <li><strong>Published Research</strong> on Deep Learning for Text Classification (under review).</li>
 </ul>
