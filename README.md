@@ -5,6 +5,16 @@
 </p>
 
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sriharsha-Meduri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sriharsha-Meduri/Sriharsha-Meduri/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sriharsha-Meduri/Sriharsha-Meduri/output/github-contribution-grid-snake-light.svg"/>
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Sriharsha-Meduri/Sriharsha-Meduri/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<p align="center">
 <a href="https://github.com/Sriharsha-Meduri/Sriharsha-Meduri/blob/main/SriharshaMeduri_CV.pdf" target="_blank">
 <img src="https://img.shields.io/badge/View%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
@@ -34,6 +44,7 @@ product lifecycle, from architecture and model development to deployment and ite
   <li><strong>Winner</strong> in the <strong>National Cybersecurity Hackathon</strong> organised by the Ministry of Electronics and IT (ISEA, MeitY).</li>
   <li><strong>Round 2 Qualifier</strong> in <strong>DP World Hackathon 2026</strong> at BITS Pilani.</li>
   <li><strong>Round 3 Qualifier</strong> in <strong>MumbaiHacks 2025</strong>, competing among top national teams.</li>
+  <li><strong>Qualified Round 1</strong> (Internal) in <strong>Smart India Hackathon (SIH) 2025</strong>.</li>
   <li><strong>Co-Lead</strong> at the <strong>GDSC Machine Learning Chapter</strong>, organizing workshops and CTFs for 200+ students.</li>
   <li><strong>Published Research</strong> on Deep Learning for Text Classification (under review).</li>
 </ul>
@@ -45,7 +56,7 @@ product lifecycle, from architecture and model development to deployment and ite
   <li><strong>QuickPe</strong>: Offline-first fintech payment platform with biometric authentication, hardware-backed key management, and cryptographic verification.</li>
   <li><strong>Shatabdi Mahotsav</strong>: Andhra University centenary website with interactive events, live countdowns, and dynamic registrations.</li>
   <li><strong>LiveGuard AI</strong>: Multi-modal deepfake and synthetic media forensics using CLIP-based detection and XCLIP with explainable risk scoring.</li>
-  <li><strong>PhishingLens</strong>: Production-grade phishing detection (96% accuracy) fusing OTX, GNN, and DistilBERT signals.</li>
+  <li><strong>PhishingLens</strong>: Production-grade phishing detection (96% accuracy) fusing OTX, GNN, and DistilBERT signals; Chrome extension used by 500+ users.</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
