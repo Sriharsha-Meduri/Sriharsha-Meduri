@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋 I'm Sriharsha Meduri</h1>
 
 <p align="center">
-<strong>MLOps Engineer | Full Stack Developer</strong>
+<strong>AI/ML Engineer | Full Stack Developer | Builder</strong>
 </p>
 
 <p align="center">
@@ -11,23 +11,32 @@
 </p>
 
 <p align="center">
-I build intelligent, scalable systems by combining Machine Learning, backend engineering,
-and modern web technologies. I’m particularly interested in deploying ML models into
-real-world, production-grade environments.
+I'm an engineer who enjoys turning ambitious ideas into products people can actually use.
+I work at the intersection of AI, machine learning, and full-stack development, owning the entire
+product lifecycle — from architecture and model development to deployment and iteration.
 </p>
 
 <h2 align="left">About Me</h2>
 
 <ul>
-  <li>Machine Learning Intern at <strong>iMerit Technology Services</strong>, working on post-hoc OOD detection for semantic segmentation.</li>
-  <li>Machine Learning Research Intern at <strong>IIM Shillong</strong>, focusing on deep learning architectures for text classification and NLP.</li>
-  <li>Web Development Intern at <strong>InsightKnox</strong>, where I developed and deployed a production-ready website.</li>
-  <li>Experience building <strong>end-to-end ML systems</strong> involving data pipelines, model training, APIs, and deployment.</li>
-  <li>Strong interest in <strong>MLOps, Computer Vision, NLP, and system reliability</strong>.</li>
-  <li>Winner of a <strong>National Cybersecurity Hackathon</strong> conducted by ISEA (MeitY).</li>
-  <li>Round 3 qualifier at <strong>MumbaiHacks 2025</strong> and participant in <strong>Smart India Hackathon</strong>.</li>
-  <li>Co-Lead at <strong>GDSC Cybersecurity Chapter</strong>, organizing workshops and CTFs.</li>
-  <li>Currently pursuing <strong>B.Tech in Information Technology</strong> at Andhra University (AUCE).</li>
+  <li>🚀 <strong>Head of Engineering</strong> at <strong>OviGuide</strong>, building an admission prediction engine and counselling copilot across 50,000+ JoSAA college-branch combinations.</li>
+  <li>💳 <strong>CTO & Co-Founder</strong> at <strong>QuickPe</strong>, designing an offline-first biometric payment system with ECDSA P-256 signing and fraud detection.</li>
+  <li>🎓 <strong>Founding Engineer</strong> at <strong>Oviqo</strong>, building a personalized video generation engine using fine-tuned diffusion models and TTS pipelines.</li>
+  <li>🔬 <strong>Research Intern</strong> at <strong>IIM Shillong</strong>, working on deep learning architectures for text classification and NLP (BiLSTM + domain-adaptive GloVe, 85.3% accuracy at 16× lower latency).</li>
+  <li>🤖 <strong>Machine Learning Intern</strong> at <strong>iMerit Technology Services</strong>, building post-hoc OOD detection pipelines for semantic segmentation in autonomous driving (KITTI, Fishyscapes, nuScenes).</li>
+  <li>🛡️ <strong>Cybersecurity Co-Lead</strong> at <strong>GDGoC AUCE</strong>, organizing workshops and CTFs for 200+ students.</li>
+  <li>🏆 <strong>Winner</strong> of the <strong>National Cybersecurity Hackathon</strong> conducted by ISEA (MeitY), and <strong>Round 3 qualifier</strong> at MumbaiHacks 2025.</li>
+  <li>📚 Currently pursuing <strong>B.Tech in Information Technology</strong> at Andhra University (AUCE).</li>
+</ul>
+
+<h2 align="left">🛠️ Featured Projects</h2>
+
+<ul>
+  <li><strong>VisionGuard AI</strong> — Edge AI container damage detection on Jetson Nano (fine-tuned YOLOv5, 98.7% mAP, &lt;50ms inference, real-time WebSocket streaming).</li>
+  <li><strong>QuickPe</strong> — Offline-first fintech payment platform with biometric authentication, hardware-backed key management, and cryptographic verification.</li>
+  <li><strong>Shatabdi Mahotsav</strong> — Andhra University centenary website with interactive events, live countdowns, and dynamic registrations.</li>
+  <li><strong>LiveGuard AI</strong> — Multi-modal deepfake & synthetic media forensics using CLIP-based detection and XCLIP with explainable risk scoring.</li>
+  <li><strong>PhishingLens</strong> — Production-grade phishing detection (96% accuracy) fusing OTX, GNN, and DistilBERT signals; Chrome extension used by 500+ users.</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,10 +49,11 @@ real-world, production-grade environments.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/express.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
@@ -62,7 +72,13 @@ real-world, production-grade environments.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/sriharsha-meduri" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+</a>
+<a href="https://www.instagram.com/sriharsha.meduri_" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+</a>
+<a href="mailto:sriharshameduri07@gmail.com" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40"/>
+</a>
 </p>
