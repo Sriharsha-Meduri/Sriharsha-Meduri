@@ -47,7 +47,7 @@
   <li><strong>PhishingLens</strong>: Production-grade phishing detection (96% accuracy) fusing OTX, GNN, and DistilBERT signals; Chrome extension used by 500+ users.</li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
